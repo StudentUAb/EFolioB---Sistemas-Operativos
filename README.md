@@ -17,9 +17,10 @@ O projeto foi feito em C.
 
 The project was done with C.
 
-Sintaxe de uso:
 
-pteste {ntarefas} {casos.txt}
+## Sintaxe de uso:
+
+<pre>pteste {ntarefas} {casos.txt}</pre>
 
 
 <img src="print.png" alt="page-home">
