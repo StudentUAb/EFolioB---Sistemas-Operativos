@@ -10,15 +10,19 @@ Sistemas Operativos
   
 </p>
 
-📌 CRUD em C 
+📌 Teste de função em C com pthreads
 ------------------
 O projeto foi feito em C.
 
 
 The project was done with C.
 
+Sintaxe de uso:
 
-<img src="menu.png" alt="page-home">
+pteste {ntarefas} {casos.txt}
+
+
+<img src="print.png" alt="page-home">
 
 
 🔧 Tecnologias utilizadas:
